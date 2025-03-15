@@ -2,6 +2,8 @@
 
 一个简约风格的纯色背景生成网站，可以轻松创建自定义尺寸的纯色背景图片。
 
+网站域名：https://wangbuliuxing714.github.io/full-background/
+
 ## 功能特点
 
 - 自定义背景颜色选择
